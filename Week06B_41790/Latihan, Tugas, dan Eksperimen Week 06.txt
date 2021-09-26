@@ -1,0 +1,11 @@
+Latihan, Tugas, dan Eksperimen Week 06:
+
+1. Week 06 A
+   Jika di-run dan melakukan klik pada layar, maka akan muncul lingkaran yang akan memenuhi layar
+
+2. Week 06 B
+   Jika di-run dan melakukan klik pada gambar kuda, maka kuda tersebut akan berlari seperti gambar pada .gif
+
+3. Week 06 C
+   Jika di-run dan melakukan klik pada tombol spring, maka tombol spring akan bergerak vertical ke bawah dan ke atas
+   Jika di-run dan melakukan klik pada tombol fling, maka tombol fling akan berputar seperti flip secara vertical
