@@ -1,0 +1,3 @@
+Latihan, Tugas, dan Eksperimen Week 05 :
+
+= Untuk pengujian app semua berjalan lancar sesuai dengan yang ada di modul, app tidak ada crash dan berfungsi dengan semestinya

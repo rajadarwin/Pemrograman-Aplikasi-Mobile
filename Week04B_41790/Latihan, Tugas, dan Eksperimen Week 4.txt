@@ -1,0 +1,3 @@
+Latihan, Tugas, dan Eksperimen Week 4 :
+
+= Pengujian berjalan lancar tanpa adanya kendala seperti crash dan semacamnya

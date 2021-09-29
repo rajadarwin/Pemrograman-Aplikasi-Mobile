@@ -1,0 +1,8 @@
+Latihan, Tugas, dan Eksperimen Week 2 :
+Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+   = Terjadi crash pada app
+b. Kosongkan Angka 2, lalu klik button Bagi.
+   = Terjadi crash kembali
+c. Isi 0 (nol) pada Agka 2, lalu klik button Bagi.
+   = Terjadi crash

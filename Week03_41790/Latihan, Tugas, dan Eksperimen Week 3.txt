@@ -1,0 +1,6 @@
+Latihan, Tugas, dan Eksperimen Week 3 :
+Lakukan pengujian terhadap app anda dengan scenario beberapa penambahan dan pemilihan
+beberapa item pada daftar kata di recyclerView. Beri catatan dan kesimpulan dari hasil pengujian app
+anda dan submit ke eLearning portal.
+
+= Pengujian dengan melakukan run pada App berjalan dengan lancar, namun masih ada beberapa kekurangan seperti jarak antar kata yang masih terlalu jauh
