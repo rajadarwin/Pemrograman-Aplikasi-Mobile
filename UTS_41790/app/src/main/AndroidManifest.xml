@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.uts_41790">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UTS_41790">
+        <activity
+            android:name="umn.ac.id.ProfileActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UTS_41790.NoActionBar"/>
+        <activity
+            android:name="umn.ac.id.DetailLibraryActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UTS_41790.NoActionBar"/>
+        <activity
+            android:name="umn.ac.id.LibraryActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UTS_41790.NoActionBar" />
+        <activity
+            android:name="umn.ac.id.LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UTS_41790.NoActionBar" />
+        <activity
+            android:name="umn.ac.id.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.UTS_41790.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

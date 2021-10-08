@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/drawable/ic_baseline_person_200.xml" value="0.290625" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/drawable/ic_baseline_volume_up_24.xml" value="0.290625" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/activity_detail_library.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/activity_library.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/library_item.xml" value="0.14375" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/UTS_41790/app/src/main/res/layout/referensi_item.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_volume_up_24.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_detail_library.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_library.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/library_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/referensi_item.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
