@@ -60,6 +60,9 @@ public class ProfileActivity extends AppCompatActivity {
         referensiList.add("https://github.com/hdodenhof/CircleImageView");
         referensiList.add("https://developer.android.com/guide/topics/media/mediaplayer");
         referensiList.add("https://stackoverflow.com/questions/24742732/android-studio-action-bar-remove");
+        referensiList.add("https://www.youtube.com/watch?v=18VcnYN5_LM&t=32s");
+        referensiList.add("https://www.youtube.com/watch?v=HGFBL_ETk_4");
+
         adapter.notifyDataSetChanged();
     }
 }
