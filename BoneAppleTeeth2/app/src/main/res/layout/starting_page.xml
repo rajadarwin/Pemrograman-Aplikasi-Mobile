@@ -1,0 +1,200 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		homescreen
+	 *	@date 		1636943553636
+	 *	@title 		Bone Apple Teeth 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/starting_page" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_starting_page_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__starting_page_ek2"
+					android:background="@drawable/_bg__starting_page_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="823dp" />
+
+
+				<RelativeLayout android:id="@+id/logo"
+					android:layout_marginTop="262dp"
+					android:layout_marginStart="28dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/bone_appl__teeth"
+						android:fontFamily="Arial"
+						android:textStyle="bold"
+						android:textSize="43sp"
+						android:shadowRadius="4"
+						android:shadowColor="#000000"
+						android:shadowDx="0"
+						android:shadowDy="4"
+						android:textColor="@color/f_o_o_d_n_e_w_s_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="410.5dp"
+						android:layout_height="79.5dp"
+						android:text="@string/bone_appl__teeth_string"
+						 />
+
+					<TextView android:id="@+id/read__cook__repeat"
+						android:fontFamily="Arial"
+						android:textStyle="bold"
+						android:textSize="18sp"
+						android:shadowRadius="4"
+						android:shadowColor="#000000"
+						android:shadowDx="0"
+						android:shadowDy="4"
+						android:textColor="@color/f_o_o_d_n_e_w_s_color"
+						android:layout_marginLeft="95dp"
+						android:layout_marginTop="76dp"
+						android:layout_width="193dp"
+						android:layout_height="34dp"
+						android:text="@string/read__cook__repeat_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/register_ek1"
+					android:layout_marginTop="389dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_6"
+						android:background="@drawable/rectangle_6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="322dp"
+						android:layout_height="61dp" />
+
+					<TextView android:id="@+id/r_e_g_i_s_t_e_r"
+						android:fontFamily="Arial"
+						android:textStyle="bold"
+						android:textSize="18sp"
+						android:textColor="@color/pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_color"
+						android:layout_marginLeft="103dp"
+						android:layout_marginTop="22dp"
+						android:layout_width="174dp"
+						android:layout_height="30dp"
+						android:text="@string/r_e_g_i_s_t_e_r_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/login"
+					android:layout_marginTop="471dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_7"
+						android:background="@drawable/rectangle_7_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="322dp"
+						android:layout_height="61dp" />
+
+					<TextView android:id="@+id/l_o_g_i_n"
+						android:fontFamily="Arial"
+						android:textStyle="bold"
+						android:textSize="18sp"
+						android:textColor="@color/_bg__homescreen_ek2_color"
+						android:layout_marginLeft="122dp"
+						android:layout_marginTop="22dp"
+						android:layout_width="135dp"
+						android:layout_height="30dp"
+						android:text="@string/l_o_g_i_n_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/background"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="-215dp"
+					android:layout_marginTop="-210dp">
+
+					<ImageView
+						android:id="@+id/pngaaa_1"
+						android:layout_width="405dp"
+						android:layout_height="402dp"
+						android:layout_marginStart="380dp"
+						android:layout_marginTop="61dp"
+						android:contentDescription="pngaaa_1"
+						android:src="@drawable/pngaaa_1" />
+
+					<ImageView
+						android:id="@+id/pngaaa_2"
+						android:layout_width="278.1dp"
+						android:layout_height="128.35dp"
+						android:layout_marginStart="129dp"
+						android:layout_marginTop="886dp"
+						android:contentDescription="pngaaa_2"
+						android:src="@drawable/pngaaa_2" />
+
+					<ImageView
+						android:id="@+id/food_13549_1"
+						android:layout_width="302dp"
+						android:layout_height="295dp"
+						android:layout_marginStart="60dp"
+						android:layout_marginTop="63dp"
+						android:contentDescription="food_13549_1"
+						android:src="@drawable/food_13549_1" />
+
+					<ImageView
+						android:id="@+id/ayam_goreng_1"
+						android:layout_width="339.56dp"
+						android:layout_height="202.84dp"
+						android:layout_marginStart="388dp"
+						android:layout_marginTop="869dp"
+						android:contentDescription="ayam_goreng_1"
+						android:src="@drawable/ayam_goreng_1" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

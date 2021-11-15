@@ -1,0 +1,150 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		homescreen
+	 *	@date 		1636943553636
+	 *	@title 		Bone Apple Teeth 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/on_boarding_page_2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_on_boarding_page_2_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__on_boarding_page_2_ek2"
+					android:background="@drawable/_bg__on_boarding_page_2_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="823dp" />
+
+
+				<RelativeLayout android:id="@+id/status_bar_ek6"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek6"
+						android:background="@drawable/rectangle_5_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411dp"
+						android:layout_height="47dp" />
+
+					<ImageView android:id="@+id/no_color_1_ek6"
+						android:src="@drawable/no_color_1_ek6"
+						android:contentDescription="no_color_1_ek6"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="406.08dp"
+						android:layout_height="47dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/resep_pintar_mudah_untukmu_"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:textSize="30sp"
+					android:textColor="@color/jelajahi_ratusan_resep_pintar__color"
+					android:layout_marginLeft="27dp"
+					android:layout_marginTop="91dp"
+					android:layout_width="279dp"
+					android:layout_height="89dp"
+					android:text="@string/resep_pintar_mudah_untukmu__string"
+					 />
+
+				<TextView android:id="@+id/ratusan_resep_pintar_untuk_koki_pemula"
+					android:fontFamily="Arial"
+					android:textSize="18sp"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:layout_marginLeft="27dp"
+					android:layout_marginTop="196dp"
+					android:layout_width="336dp"
+					android:layout_height="64dp"
+					android:text="@string/ratusan_resep_pintar_untuk_koki_pemula_string"
+					 />
+
+				<View android:id="@+id/ellipse_3_ek2"
+					android:background="@drawable/ellipse_3_ek2_shape"
+					 android:layout_marginStart="85dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_ellipse_4_ek2"
+					android:background="@drawable/_ellipse_4_ek2_shape"
+					 android:layout_marginStart="55dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_ellipse_5_ek2"
+					android:background="@drawable/_ellipse_5_ek2_shape"
+					 android:layout_marginStart="115dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_rectangle_15_ek2"
+					android:background="@drawable/_rectangle_15_ek2_shape"
+					 android:layout_marginStart="239dp"
+					android:layout_marginTop="679dp"
+					android:layout_width="118dp"
+					android:layout_height="42dp" />
+
+				<TextView android:id="@+id/lewati_ek2"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:textSize="18sp"
+					android:textColor="@color/pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_color"
+					android:layout_marginLeft="270dp"
+					android:layout_marginTop="689dp"
+					android:layout_width="80dp"
+					android:layout_height="34dp"
+					android:text="@string/lewati_ek2_string"
+					 />
+
+				<ImageView android:id="@+id/on_board_2_1"
+					android:src="@drawable/on_board_2_1"
+					android:contentDescription="on_board_2_1"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="247dp"
+					android:layout_width="411dp"
+					android:layout_height="394dp" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
