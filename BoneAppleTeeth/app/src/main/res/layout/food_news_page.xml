@@ -1,0 +1,368 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/food_news_page" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<RelativeLayout android:id="@+id/page_food_news_page_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__food_news_page_ek2"
+					android:background="@drawable/_bg__food_news_page_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="823dp" />
+
+				<View android:id="@+id/rectangle_10_ek1"
+					android:background="@drawable/rectangle_10_ek1_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="47dp"
+					android:layout_width="411dp"
+					android:layout_height="308dp" />
+
+
+				<RelativeLayout android:id="@+id/scrollable_ek1"
+					android:layout_marginTop="435dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_13_ek1"
+						android:background="@drawable/rectangle_13_ek1_shape"
+						 android:alpha="0"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411dp"
+						android:layout_height="665dp" />
+
+					<View android:id="@+id/rectangle_9_ek1"
+						android:background="@drawable/rectangle_9_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="-98dp"
+						android:layout_width="411dp"
+						android:layout_height="763dp" />
+
+
+					<RelativeLayout android:id="@+id/nasi_goreng_dan_deskripsi_ek1"
+						android:layout_marginTop="14dp"
+						android:layout_marginStart="38dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_ek1"
+							android:fontFamily="Arial"
+							android:textSize="18sp"
+							android:textColor="@color/f_o_o_d_n_e_w_s_color"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="332dp"
+							android:layout_height="76dp"
+							android:text="@string/pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_ek1_string"
+							 />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/nasi_goreng_dan_deskripsi_ek2"
+						android:layout_marginTop="94dp"
+						android:layout_marginStart="38dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/_16_oktober_2021"
+							android:fontFamily="Arial"
+							android:textSize="13sp"
+							android:textColor="@color/f_o_o_d_n_e_w_s_color"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="138.5dp"
+							android:layout_height="27.5dp"
+							android:text="@string/_16_oktober_2021_string"
+							 />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/nasi_goreng_dan_deskripsi_ek3"
+						android:layout_marginTop="139dp"
+						android:layout_marginStart="38dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/_1__cokelat_hitam_cokelat_hitam_memiliki_kandungan_yang_banyak_antioksidan_dan_flavanol_kakao_yang_dapat_menjaga_kesehatan_sel_di_otak__menurut_naidoo__makanan_ini_juga_memiliki_kandungan_serat_untuk_menghindari_peradangan_otak_dan_mencegah_penurunan_kognitif__berdasarkan_penelitian_yang_dilakukan_pada_2020_terhadap_dampak_cokelat_hitam_dan_putih__ditemukan_bahwa_cokelat_hitam_memiliki_kinerja_yang_lebih_baik_setelah_2_jam_dikonsumsi_dibandingkan_cokelat_putih_"
+							android:fontFamily="Arial"
+							android:textSize="13sp"
+							android:textColor="@color/f_o_o_d_n_e_w_s_color"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="355.5dp"
+							android:layout_height="212.5dp"
+							android:text="@string/_1__cokelat_hitam_cokelat_hitam_memiliki_kandungan_yang_banyak_antioksidan_dan_flavanol_kakao_yang_dapat_menjaga_kesehatan_sel_di_otak__menurut_naidoo__makanan_ini_juga_memiliki_kandungan_serat_untuk_menghindari_peradangan_otak_dan_mencegah_penurunan_kognitif__berdasarkan_penelitian_yang_dilakukan_pada_2020_terhadap_dampak_cokelat_hitam_dan_putih__ditemukan_bahwa_cokelat_hitam_memiliki_kinerja_yang_lebih_baik_setelah_2_jam_dikonsumsi_dibandingkan_cokelat_putih__string"
+							 />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/nasi_goreng_dan_deskripsi_ek4"
+						android:layout_marginTop="344dp"
+						android:layout_marginStart="37dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/_2__buah_beri_buah_beri_memberikan_banyak_manfaat_karena_kandungannya_yang_memiliki_antioksidan__fitonutrien__serat__vitamin__dan_mineral__beragam_nutrisi_yang_dimiliki_dapat_mempertahankan_memori__sedangkan_kandungan_serat_memberi_makan_mikroba_di_usus_untuk_mengurangi_peradangan_otak___memilih_buah_beri_yang_bermacam_macam_adalah_buah_beri_merah__biru__dan_hitam___saran_naidoo__contohnya__stroberi_yang_kaya_akan_flavonoid_dan_bermanfaat_memperlambat_penurunan_kognitif__lalu__blueberry_dapat_mencegah_stres_oksidatif__sedangkan_blackberry_yang_menjadi_sumber_antioksidan_dapat_membantu_menyehatkan_sel_otak_"
+							android:fontFamily="Arial"
+							android:textSize="13sp"
+							android:textColor="@color/f_o_o_d_n_e_w_s_color"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="355.5dp"
+							android:layout_height="212.5dp"
+							android:text="@string/_2__buah_beri_buah_beri_memberikan_banyak_manfaat_karena_kandungannya_yang_memiliki_antioksidan__fitonutrien__serat__vitamin__dan_mineral__beragam_nutrisi_yang_dimiliki_dapat_mempertahankan_memori__sedangkan_kandungan_serat_memberi_makan_mikroba_di_usus_untuk_mengurangi_peradangan_otak___memilih_buah_beri_yang_bermacam_macam_adalah_buah_beri_merah__biru__dan_hitam___saran_naidoo__contohnya__stroberi_yang_kaya_akan_flavonoid_dan_bermanfaat_memperlambat_penurunan_kognitif__lalu__blueberry_dapat_mencegah_stres_oksidatif__sedangkan_blackberry_yang_menjadi_sumber_antioksidan_dapat_membantu_menyehatkan_sel_otak__string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/navigation_bar_ek5"
+					android:layout_marginTop="744dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_1_ek5"
+						android:background="@drawable/rectangle_1_ek5_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411dp"
+						android:layout_height="79dp" />
+
+
+					<RelativeLayout android:id="@+id/home_white_48dp_1_ek5"
+						android:layout_marginTop="19dp"
+						android:layout_marginStart="55dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek525"
+							android:src="@drawable/vector_ek525"
+							android:contentDescription="vector_ek525"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="36dp"
+							android:layout_height="36dp" />
+
+						<ImageView android:id="@+id/vector_ek526"
+							android:src="@drawable/vector_ek526"
+							android:contentDescription="vector_ek526"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="4.5dp"
+							android:layout_width="30dp"
+							android:layout_height="25.5dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/favorite_border_white_48dp_1_ek5"
+						android:layout_marginTop="19dp"
+						android:layout_marginStart="239dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek527"
+							android:src="@drawable/vector_ek527"
+							android:contentDescription="vector_ek527"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="36dp"
+							android:layout_height="36dp" />
+
+						<ImageView android:id="@+id/vector_ek528"
+							android:src="@drawable/vector_ek528"
+							android:contentDescription="vector_ek528"
+							 android:layout_marginStart="3dp"
+							android:layout_marginTop="4.5dp"
+							android:layout_width="30dp"
+							android:layout_height="27.53dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/person_white_48dp_1_ek5"
+						android:layout_marginTop="15dp"
+						android:layout_marginStart="322dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek529"
+							android:src="@drawable/vector_ek529"
+							android:contentDescription="vector_ek529"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="42dp"
+							android:layout_height="42dp" />
+
+						<ImageView android:id="@+id/vector_ek530"
+							android:src="@drawable/vector_ek530"
+							android:contentDescription="vector_ek530"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="7dp"
+							android:layout_width="28dp"
+							android:layout_height="28dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/discover_ek3"
+						android:layout_marginTop="18dp"
+						android:layout_marginStart="145dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/search_white_48dp_1_ek7"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/vector_ek531"
+								android:src="@drawable/vector_ek531"
+								android:contentDescription="vector_ek531"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="41dp"
+								android:layout_height="41dp" />
+
+							<ImageView android:id="@+id/vector_ek532"
+								android:src="@drawable/vector_ek532"
+								android:contentDescription="vector_ek532"
+								 android:layout_marginStart="5.13dp"
+								android:layout_marginTop="5.13dp"
+								android:layout_width="29.88dp"
+								android:layout_height="29.88dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<View android:id="@+id/ellipse_2_ek1"
+					android:background="@drawable/ellipse_2_ek1_shape"
+					 android:layout_marginStart="279dp"
+					android:layout_marginTop="312dp"
+					android:layout_width="14dp"
+					android:layout_height="14dp" />
+
+				<ImageView android:id="@+id/_5_sehat_1_ek1"
+					android:src="@drawable/_5_sehat_1_ek1"
+					android:contentDescription="_5_sehat_1_ek1"
+					 android:layout_marginStart="-87dp"
+					android:layout_marginTop="-114dp"
+					android:layout_width="473dp"
+					android:layout_height="603dp" />
+
+				<View android:id="@+id/rectangle_14_ek1"
+					android:background="@drawable/rectangle_14_ek1_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="47dp"
+					android:layout_width="411dp"
+					android:layout_height="338dp" />
+
+
+				<RelativeLayout android:id="@+id/detail_makanan_ek1"
+					android:layout_marginTop="337dp"
+					android:layout_marginStart="-1dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/atasan_ek1"
+						android:src="@drawable/atasan_ek1"
+						android:contentDescription="atasan_ek1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411.5dp"
+						android:layout_height="98.5dp" />
+
+					<TextView android:id="@+id/f_o_o_d_n_e_w_s_ek1"
+						android:fontFamily="Arial"
+						android:textStyle="bold"
+						android:textSize="18sp"
+						android:textColor="@color/f_o_o_d_n_e_w_s_color"
+						android:layout_marginLeft="133dp"
+						android:layout_marginTop="38dp"
+						android:layout_width="170dp"
+						android:layout_height="34dp"
+						android:text="@string/f_o_o_d_n_e_w_s_ek1_string"
+						 />
+
+					<View android:id="@+id/line_1_ek3"
+						android:background="@drawable/line_1_ek3_shape"
+						 android:layout_marginStart="26dp"
+						android:layout_marginTop="49dp"
+						android:layout_width="99dp"
+						android:layout_height="1dp" />
+
+					<View android:id="@+id/line_2_ek4"
+						android:background="@drawable/line_2_ek4_shape"
+						 android:layout_marginStart="287dp"
+						android:layout_marginTop="49dp"
+						android:layout_width="99dp"
+						android:layout_height="1dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/status_bar_ek10"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek10"
+						android:background="@drawable/rectangle_5_ek10_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411dp"
+						android:layout_height="47dp" />
+
+					<ImageView android:id="@+id/no_color_1_ek10"
+						android:src="@drawable/no_color_1_ek10"
+						android:contentDescription="no_color_1_ek10"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="406.08dp"
+						android:layout_height="47dp" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- bone_apple_teeth colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__home_page_ek2_color">#000000</color>
+	<color name="rectangle_5_color">#D8E9A8</color>
+	<color name="selamat_datang__indira__color">#428633</color>
+	<color name="f_o_o_d_n_e_w_s_color">#191A19</color>
+	<color name="ellipse_6_color">#C4C4C4</color>
+	<color name="news_color">#4E9F3D</color>
+	<color name="rectangle_16_color">#ffffff</color>
+	<color name="pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_color">#FFFFFF</color>
+	<color name="__indiramasak_color">#FFEF62</color>
+	<color name="rectangle_18_color">#E9F5C7</color>
+	<color name="ellipse_8_color">#EAF5C7</color>
+	<color name="kotak_nama_color">#E7E7E7</color>
+	<color name="_bg__on_boarding_page_1_ek2_color">#EFFBCC</color>
+	<color name="jelajahi_ratusan_resep_pintar__color">#4E9C3E</color>
+	<color name="indira_hafiz_student_umn_ac_id_ek1_color">#3C3C43</color>
+	<color name="line_1_ek1_color">#253274</color>
+	<color name="_bg__search_page_ek2_color">#EEFACC</color>
+	<color name="rectangle_10_color">#7ED16C</color>
+</resources>

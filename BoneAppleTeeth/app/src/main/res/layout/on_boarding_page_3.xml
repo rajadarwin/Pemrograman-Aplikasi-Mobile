@@ -1,0 +1,132 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/on_boarding_page_3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<RelativeLayout android:id="@+id/page_on_boarding_page_3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View
+					android:id="@+id/_bg__on_boarding_page_3_ek2"
+					android:layout_width="411dp"
+					android:layout_height="823dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/_bg__on_boarding_page_3_ek2_shape" />
+
+
+				<RelativeLayout android:id="@+id/status_bar_ek5"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_5_ek5"
+						android:background="@drawable/rectangle_5_ek5_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="411dp"
+						android:layout_height="47dp" />
+
+					<ImageView android:id="@+id/no_color_1_ek5"
+						android:src="@drawable/no_color_1_ek5"
+						android:contentDescription="no_color_1_ek5"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="406.08dp"
+						android:layout_height="47dp" />
+
+				</RelativeLayout>
+
+				<TextView
+					android:id="@+id/simpan_resep_terlezatmu_"
+					android:layout_width="242dp"
+					android:layout_height="89dp"
+					android:layout_marginLeft="27dp"
+					android:layout_marginTop="91dp"
+					android:fontFamily="Arial"
+					android:text="@string/simpan_resep_terlezatmu__string"
+					android:textColor="@color/jelajahi_ratusan_resep_pintar__color"
+					android:textSize="30sp"
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/simpan_resep_favoritmu_di_sini"
+					android:layout_width="336dp"
+					android:layout_height="64dp"
+					android:layout_marginLeft="27dp"
+					android:layout_marginTop="196dp"
+					android:fontFamily="Arial"
+					android:text="@string/simpan_resep_favoritmu_di_sini_string"
+					android:textColor="@color/_bg__home_page_ek2_color"
+					android:textSize="18sp" />
+
+				<View android:id="@+id/ellipse_3_ek1"
+					android:background="@drawable/ellipse_3_ek1_shape"
+					 android:layout_marginStart="115dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_ellipse_4_ek1"
+					android:background="@drawable/_ellipse_4_ek1_shape"
+					 android:layout_marginStart="85dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_ellipse_5_ek1"
+					android:background="@drawable/_ellipse_5_ek1_shape"
+					 android:layout_marginStart="55dp"
+					android:layout_marginTop="693dp"
+					android:layout_width="13dp"
+					android:layout_height="13dp" />
+
+				<View android:id="@+id/_rectangle_15_ek1"
+					android:background="@drawable/_rectangle_15_ek1_shape"
+					 android:layout_marginStart="239dp"
+					android:layout_marginTop="679dp"
+					android:layout_width="118dp"
+					android:layout_height="42dp" />
+
+				<TextView
+					android:id="@+id/lewati_ek1"
+					android:layout_width="80dp"
+					android:layout_height="34dp"
+					android:layout_marginLeft="270dp"
+					android:layout_marginTop="689dp"
+					android:fontFamily="Arial"
+					android:text="@string/lewati_ek1_string"
+					android:textColor="@color/pertajam_kemampuan_otak_dengan_konsumsi_5_makanan_ini_setiap_hari_color"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+
+				<ImageView
+					android:id="@+id/on_board_3_1"
+					android:layout_width="424dp"
+					android:layout_height="412dp"
+					android:layout_marginStart="-18dp"
+					android:layout_marginTop="231dp"
+					android:contentDescription="on_board_3_1"
+					android:src="@drawable/on_board_3_1" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
