@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/Pemrograman-Aplikasi-Mobile/BoneAppleTeeth-master/app/src/main/res/layout/activity_food.xml" value="0.1829861111111111" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/Pemrograman-Aplikasi-Mobile/BoneAppleTeeth-master/app/src/main/res/layout/activity_food.xml" value="0.2" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/Pemrograman-Aplikasi-Mobile/BoneAppleTeeth-master/app/src/main/res/layout/fragment_profile.xml" value="0.17896174863387979" />
+        <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/Pemrograman-Aplikasi-Mobile/BoneAppleTeeth-master/app/src/main/res/layout/fragment_search.xml" value="0.17896174863387979" />
         <entry key="..\:/Users/Raja Darwin/AndroidStudioProjects/Pemrograman-Aplikasi-Mobile/BoneAppleTeeth-master/app/src/main/res/layout/item_resep.xml" value="0.1829861111111111" />
         <entry key="app/src/main/res/drawable/background_food_page.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/background_oval.xml" value="0.14010416666666667" />
